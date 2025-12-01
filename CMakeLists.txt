@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(encoder encoder.cpp)
 add_executable(decoder decoder.cpp)
+add_executable(main main.cpp)
